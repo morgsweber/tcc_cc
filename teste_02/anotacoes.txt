@@ -1,0 +1,29 @@
+todas as infos do paciente na mesma divisão (treino e teste)
+
+2 testes diferentes: um usando icd-9 - OK
+e
+tempo médio pra aquele diagnostico especifico - passar o tempo médio de diagnostico usando icd-9 
+ao invés do diagnostico - OK
+
+
+
+garantir que pelo menos um de cada tipo de diagnostico vá pro treinamento - OK
+
+plotar distribuição por diagnostico - OK
+
+
+
+baseline: valor médio de uma das 10 categorias com base no icd-9
+(computar infos de desempenho desse caso)
+
+MLP
+
+https://www.cdc.gov/nchs/icd/icd9cm
+
+
+cuidar pra fitar o standarscaler só nos dados de treino - OK
+
+
+
+normalizar a saida
+
